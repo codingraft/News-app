@@ -1,0 +1,20 @@
+.slider{
+   position: absolute;
+   right: 0;
+   cursor: pointer;
+   z-index: 2;
+}
+.sliderIcon{
+    margin-right: 10px;
+    width: 35px;
+    height: 35px;
+    z-index: 1;
+    transition: all 0.5s ease;
+}
+.sliderIconCross{
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+    z-index: 1;
+    transition: all 0.5s ease;
+}
